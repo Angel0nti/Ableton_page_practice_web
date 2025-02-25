@@ -476,7 +476,7 @@ footer{
 
 /*MEDIA QUERY*/
 
-@media (max-width:695px){
+@media (max-width:700px){
     .nav, .nav-links, .logo-and-links, .ableton-logo{
         flex-direction: column;
         align-items: center;

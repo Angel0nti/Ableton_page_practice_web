@@ -482,6 +482,9 @@ footer{
         align-items: center;
         justify-content: center;
     }
+    .nav, .container{
+        width: 90%;
+    }
     .ableton-link{
         font-size: 1rem;
         padding: 0;

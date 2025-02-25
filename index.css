@@ -482,8 +482,8 @@ footer{
         align-items: center;
         justify-content: center;
     }
-    .nav, .container{
-        width: 90%;
+    .nav, .body{
+        width: 85%;
     }
     .ableton-link{
         font-size: 1rem;
